@@ -1,0 +1,141 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url("../img/container-bg.png");
+}
+
+div#contenedor {
+    width:1170px;height:2000px;
+    border: 3px solid rgb(0, 0, 0);
+    background-image: url("../img/container-bg.png");
+    position: relative;
+    margin: 0 auto;
+}
+
+div#encabezado {
+    width:1170 ; height:55px;
+    border: 5px solid rgb(81, 255, 0);
+    position: relative;
+
+}
+
+div#logo {
+    width:470px;height:55px;
+    border: 2px solid rgb(124, 0, 41);
+    position: relative;
+    float: left;
+    margin:0 auto;
+    
+
+}
+
+div#menu {
+    position: relative;
+    width:470px;height:55px;
+    border: 2px solid rgb(36, 235, 202);
+    position: relative;
+    float: right;
+    margin:0 auto;
+}
+ 
+div#contenido{
+    height: 815px;
+    border: 3px solid rgb(224, 73, 18);
+    position: relative;
+
+}
+
+div#destacado {
+    border: 1px solid blue;
+    height: 350px;
+}
+div#galeria3d{
+    border: 1px solid red;
+    width:760px; height: 350px;
+    float: left;
+}
+
+div#noticia-destacada {
+    border:1px solid green;
+    width: 300px; height: 350px;
+    float: right;
+}
+div#ocho-noticias{
+    border: 1px solid blue;
+    height: 650px;
+}
+
+div#ocho-noticias div:nth-child(1){
+    border:1px solid rgb(135, 0, 189);
+    width:270px;height: 220px;
+    float: left;
+    
+   
+
+    
+}
+div#ocho-noticias div:nth-child(2){
+    border:1px solid rgb(135, 0, 189);
+    width:270px;height: 220px;
+    float: left;
+   
+
+
+}
+div#ocho-noticias div:nth-child(3){
+    border:1px solid  rgb(135, 0, 189);
+    width:270px;height: 220px;
+    float: left;
+
+
+
+}
+div#ocho-noticias div:nth-child(4){
+    border:1px solid  rgb(135, 0, 189);
+    width:270px;height: 220px;
+    float: left;
+ 
+
+}
+div#ocho-noticias div:nth-child(5){
+    border:1px solid  rgb(135, 0, 189);
+    width:270px;height: 220px;
+    float: left;
+
+
+
+}
+
+div#ocho-noticias div:nth-child(6){
+    border:1px solid  rgb(135, 0, 189);
+    width:270px;height: 220px;
+    float: left;
+   
+
+
+}
+div#ocho-noticias div:nth-child(7){
+    border:1px solid  rgb(135, 0, 189);
+    width:270px;height: 220px;
+    float: left;
+
+
+
+}
+div#ocho-noticias div:nth-child(8){
+    border:1px solid  rgb(135, 0, 189);
+    width:270px;height: 220px;
+    float: left;
+    
+
+
+}
+
+    
+
+
+
+
